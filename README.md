@@ -7,7 +7,7 @@ Controls:
 
 WASD - To move
 
-V - (Only on cheat mode) Next level
+V - (Only on noobs mode) Next level
 
 F - Flip Room
 
